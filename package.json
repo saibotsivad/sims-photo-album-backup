@@ -1,0 +1,26 @@
+{
+  "name": "sims-photo-album-backup",
+  "version": "0.0.1",
+  "description": "Automatically export and save Sims 2 photo albums as they change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saibotsivad/sims-photo-album-backup.git"
+  },
+  "keywords": [
+    "sims",
+    "sims2"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/sims-photo-album-backup/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/sims-photo-album-backup",
+  "dependencies": {
+    "sims-photo-album-watcher": "0.0.1"
+  }
+}
