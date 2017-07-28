@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/saibotsivad/sims-photo-album-backup",
   "dependencies": {
-    "sims-photo-album-watcher": "0.0.1"
+    "sims-photo-album-watcher": "0.0.3"
   }
 }
