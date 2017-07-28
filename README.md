@@ -1,5 +1,7 @@
 # sims-photo-album-backup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/sims-photo-album-backup.svg)](https://greenkeeper.io/)
+
 Automatically export and save Sims 2 photo albums as they change.
 
 ## install
